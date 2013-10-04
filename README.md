@@ -1,9 +1,8 @@
 # visor-iterm2-colors
 
 A [Visor/TotalTerminal](http://totalterminal.binaryage.com/) color scheme for
-[iTerm2](http://www.iterm2.com/). This is only a best approximation due to
-rounding, as the RGB values are stored as floating point numbers instead of
-integers in iTerm2 internally.
+[iTerm2](http://www.iterm2.com/). This is a best approximation due to rounding,
+as the RGB values are stored as floating point numbers internally.
 
 The RGB values in [Visor/TotalTerminal](http://totalterminal.binaryage.com/) are as follows:
 
