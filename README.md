@@ -2,9 +2,6 @@
 
 A [Visor/TotalTerminal](http://totalterminal.binaryage.com/) color scheme for [iTerm2](http://www.iterm2.com/).
 
-In iTerm2, the RGB values are stored as floating point numbers. Therefore, due
-to rounding, this is the closest approximation.
-
 The RGB values for the Visor profile in [Visor/TotalTerminal](http://totalterminal.binaryage.com/) are defined as:
 
 |            | Black    | Red        | Green      | Yellow      | Blue        | Magenta     | Cyan        | White       |
@@ -15,3 +12,11 @@ The RGB values for the Visor profile in [Visor/TotalTerminal](http://totaltermin
 | Text        | Bold Text   | Selection | Cursor    |
 | ---         | ---         | ---       | ---       |
 | 242,242,242 | 255,255,255 | 65,65,65  | 255,249,0 |
+
+# FAQ
+**Q:** Why does magenta seem brighter than it does in Visor?
+**A:** In iTerm2, the RGB values are stored internally as floating point
+numbers. In Visor, they're an integer triplet. You'll notice they're defined as
+the same values in the RGB slider but due to floating point converstion, the
+shade is ever so slightly different. As far as I know, this is the closest
+approximation.
