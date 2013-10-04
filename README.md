@@ -2,11 +2,11 @@
 
 A [Visor/TotalTerminal](http://totalterminal.binaryage.com/) color scheme for [iTerm2](http://www.iterm2.com/).
 
-### Visor/TotalTerminal
-![Visor/TotalTerminal](http://f.cl.ly/items/0G3Z3m1X2N1L0p1d0Z0T/Screen%20Shot%202013-10-04%20at%2012.17.47%20PM.png "Visor/TotalTerminal")
-
 ### iTerm2
-![iTerm2](http://f.cl.ly/items/021w1a0H1N1r232T3r2J/Screen%20Shot%202013-10-04%20at%2012.18.07%20PM.png "iTerm2")
+![iTerm2](http://f.cl.ly/items/3D0P3v2r420E0L1c193j/iterm2.png "iTerm2")
+
+### Visor/TotalTerminal
+![Visor/TotalTerminal](http://f.cl.ly/items/2q3j3f1H313s3S251k0Z/visor.png "Visor/TotalTerminal")
 
 The RGB values for the Visor profile in *Visor/TotalTerminal* are defined as:
 
