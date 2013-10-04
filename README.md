@@ -2,10 +2,10 @@
 
 A [Visor/TotalTerminal](http://totalterminal.binaryage.com/) color scheme for [iTerm2](http://www.iterm2.com/).
 
-The RGB values are stored as floating point numbers internally. Therefore, due
+In iTerm2, the RGB values are stored as floating point numbers. Therefore, due
 to rounding, this is the closest approximation.
 
-The RGB integer values in [Visor/TotalTerminal](http://totalterminal.binaryage.com/) are as follows:
+The RGB values for the Visor profile in [Visor/TotalTerminal](http://totalterminal.binaryage.com/) are defined as:
 
 |            | Black    | Red        | Green      | Yellow      | Blue        | Magenta     | Cyan        | White       |
 | ---        | ---      | ---        | ---        | ---         | ---         | ---         | ---         | ---         |
