@@ -20,7 +20,7 @@ The RGB values for the Visor profile in *Visor/TotalTerminal* are defined as:
 | 242,242,242 | 255,255,255 | 65,65,65  | 255,249,0 |
 
 ## FAQ
-**Q:** Why does magenta seem brighter than it does in *Visor/TotalTerminal*?
+**Q:** Why do some colors seem brighter/different than in *Visor/TotalTerminal*?
 
 **A:** In *iTerm2*, RGB values are stored internally as floating point numbers.
 Upon inspection of the RGB slider, you'll notice they're defined as the exact
