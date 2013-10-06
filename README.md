@@ -23,7 +23,17 @@ The RGB values for the Visor profile in *Visor/TotalTerminal* are defined as:
 **Q:** Why do some colors seem brighter/different than in *Visor/TotalTerminal*?
 
 **A:** In *iTerm2*, RGB values are stored internally as floating point numbers.
-Upon inspection of the RGB slider, you'll notice they're defined as the exact
-same values as in *Visor/TotalTerminal* but unfortunately, due to floating point
-converstion, the shade is ever so slightly different. As far as I know, this is
-the closest approximation.
+The exact RGB values from *Visor/TotalTerminal* are used (verifiable with the
+RGB slider) but unfortunately, due to floating point converstion, the colors
+are ever so slightly different. As far as I know, this is unavoidable.
+
+**Q:** How do I most closely mimic the text style in *Visor/TotalTerminal*?
+
+**A:** The default 12pt. Monaco typeface gets you most of the way there.
+Through comparison, I've found the following character spacing values to be a
+close approximation.
+![iTerm2 Character Spacing](http://f.cl.ly/items/2J2V0I2B2t1O203s3808/iterm2-char-spacing.png "iTerm2 Character Spacing")
+
+You may also want enable "Draw bold text in bold font" in the Text Rendering
+heading under the Text section.
+![iTerm2 Text Rendering](http://f.cl.ly/items/3C3Y0Z2l3w1z200P0Y3E/iterm2-text-rendering.png "iTerm2 Text Rendering")
