@@ -32,8 +32,10 @@ are ever so slightly different. As far as I know, this is unavoidable.
 **A:** The default 12pt. Monaco typeface gets you most of the way there.
 Through comparison, I've found the following character spacing values to be a
 close approximation.
+
 ![iTerm2 Character Spacing](http://f.cl.ly/items/2J2V0I2B2t1O203s3808/iterm2-char-spacing.png "iTerm2 Character Spacing")
 
 You may also want enable "Draw bold text in bold font" in the Text Rendering
 heading under the Text section.
+
 ![iTerm2 Text Rendering](http://f.cl.ly/items/3C3Y0Z2l3w1z200P0Y3E/iterm2-text-rendering.png "iTerm2 Text Rendering")
