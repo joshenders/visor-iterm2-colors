@@ -3,10 +3,10 @@
 A [Visor/TotalTerminal](http://totalterminal.binaryage.com/) color scheme for [iTerm2](http://www.iterm2.com/).
 
 ### iTerm2
-![iTerm2](http://f.cl.ly/items/173Y0O2C363E1i0H180R/iterm2.png "iTerm2")
+![iTerm2](/docs/images/iterm2-colors.png "iTerm2")
 
 ### Visor/TotalTerminal
-![Visor/TotalTerminal](http://f.cl.ly/items/2o0q0C2s0x2d2t343X1E/visor.png "Visor/TotalTerminal")
+![Visor/TotalTerminal](/docs/images/visor-colors.png "Visor/TotalTerminal")
 
 The RGB values for the Visor profile in *Visor/TotalTerminal* are defined as:
 
@@ -33,9 +33,9 @@ are ever so slightly different. As far as I know, this is unavoidable.
 Through comparison, I've found the following character spacing values to be a
 close approximation.
 
-![iTerm2 Character Spacing](http://f.cl.ly/items/2J2V0I2B2t1O203s3808/iterm2-char-spacing.png "iTerm2 Character Spacing")
+![iTerm2 Character Spacing](/docs/images/iterm2-char-spacing.png "iTerm2 Character Spacing")
 
 You may also want enable "Draw bold text in bold font" in the Text Rendering
 heading under the Text section.
 
-![iTerm2 Text Rendering](http://f.cl.ly/items/3C3Y0Z2l3w1z200P0Y3E/iterm2-text-rendering.png "iTerm2 Text Rendering")
+![iTerm2 Text Rendering](/docs/images/iterm2-text-rendering.png "iTerm2 Text Rendering")
